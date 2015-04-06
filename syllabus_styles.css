@@ -85,3 +85,9 @@ html{
 td{
 	text-align: center;
 }
+
+.under{
+
+	text-decoration: underline;
+	font-style: italic;
+}
